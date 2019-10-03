@@ -1,6 +1,6 @@
 # PrimerEjercicioPUSH
 Primeras pruebas subiendo ejercicios con PUSH
 
-##Titulo mas pequeño
+## Titulo mas pequeño
 
-###Título aún mas pequeño
+### Título aún mas pequeño
